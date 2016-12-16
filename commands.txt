@@ -1,0 +1,42 @@
+
+AUDIO:
+audioset       Audio settings.
+  audiostat      General stats on audio stuff.
+  cache          Cache management tools.
+  local          Local playlists commands
+  pause          Pauses the current song, `[p]resume` to continue.
+  play           Plays a link / searches and play
+  playlist       Playlist management/control.
+  prev           Goes back to the last song.
+  queue          Queues a song to play next. Extended functionality in `[p]help`
+  repeat         Toggles REPEAT
+  resume         Resumes a paused song or playlist
+  shuffle        Shuffles the current queue
+  sing           Sing a song
+  skip           Skips a song, using the set threshold if the requester isn't
+  song           Info about the current song.
+  stop           Stops a currently playing song or playlist. CLEARS QUEUE.
+  yt             Searches and plays a video from YouTube
+MOD:
+  ban            Bans user and deletes last X days worth of messages.
+  blacklist      Bans user from using the bot
+  cleanup        Deletes messages.
+  editrole       Edits roles settings
+  filter         Adds/removes words from filter
+  ignore         Adds servers/channels to ignorelist
+  kick           Kicks user.
+  mute           Mutes user in the channel/server
+  names          Show previous names/nicknames of a user
+  reason         Lets you specify a reason for mod-log's cases
+  rename         Changes user's nickname
+  softban        Kicks the user, deleting 1 day worth of messages.
+  unignore       Removes servers/channels from ignorelist
+  unmute         Unmutes user in the channel/server
+  whitelist      Users who will be able to use the bot
+ECONOMY:
+  bank           Bank operations
+  economyset     Changes economy module settings
+  leaderboard    Server / global leaderboard
+  payday         Get some free credits
+  payouts        Shows slot machine payouts
+  slot           Play the slot machine
